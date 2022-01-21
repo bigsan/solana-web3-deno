@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@solana/web3.js": "https://esm.sh/@solana/web3.js@1.31.0",
+    "https://cdn.esm.sh/v62/cross-fetch@3.1.4/deno/cross-fetch.js": "https://raw.githubusercontent.com/bigsan/solana-web3-deno/main/src/fetch.ts",
+    "https://cdn.esm.sh/v62/https-browserify@1.0.0/deno/https-browserify.bundle.js": "https://raw.githubusercontent.com/bigsan/solana-web3-deno/main/src/https.ts"
+  }
+}
