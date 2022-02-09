@@ -1,1 +1,3 @@
-export default fetch;
+const localFetch = fetch;
+export default localFetch;
+export { localFetch as fetch };
