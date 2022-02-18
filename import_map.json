@@ -1,6 +1,7 @@
 {
   "imports": {
     "@solana/web3.js": "https://esm.sh/@solana/web3.js@1.33.0?pin=v66",
+    "https://cdn.esm.sh/v66/https-browserify@1.0.0/deno/https-browserify.bundle.js": "https://deno.land/std@0.125.0/node/https.ts",
     "https://cdn.esm.sh/v66/cross-fetch@3.1.5/deno/cross-fetch.js": "https://raw.githubusercontent.com/bigsan/solana-web3-deno/main/src/fetch.ts"
   }
 }
